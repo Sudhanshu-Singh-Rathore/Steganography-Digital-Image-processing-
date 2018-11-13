@@ -1,5 +1,5 @@
 # Steganography-Digital-Image-processing-
-The code hides text in an image.
+The code hides given text in desired image.
 
 
 The logic used here is:
